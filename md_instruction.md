@@ -24,8 +24,7 @@ URLs and URLs in angle brackets will automatically get turned into links.
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-## Tables
+ ## Images
 
-## Quotes
-
-## Conclusion
+For adding an image to your project you need to do this:
+ ![This is my current wallpaper!](wallpaper.jpg)
