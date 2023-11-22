@@ -18,7 +18,7 @@ Ordered lists.
 2. element 2
 3. element 3
 
-# Hello I am the conflict!!!
+# I am the conflict!
 
 ## Links
 
