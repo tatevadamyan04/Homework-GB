@@ -8,6 +8,16 @@ To make text bold, you need to frame it with two asterisks (**). **like this**
 
 ## Lists
 
+Unordered lists.
+* element1 
+* element 2
+* element 3
+
+Ordered lists.
+1. element 1 
+2. element 2
+3. element 3
+
 ## Links
 
 URLs and URLs in angle brackets will automatically get turned into links.
