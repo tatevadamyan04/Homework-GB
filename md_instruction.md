@@ -18,6 +18,8 @@ Ordered lists.
 2. element 2
 3. element 3
 
+# Hello I am the conflict!!!
+
 ## Links
 
 URLs and URLs in angle brackets will automatically get turned into links.
