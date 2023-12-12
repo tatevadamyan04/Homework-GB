@@ -15,7 +15,3 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ## Links
 
 ## Tables
-
-## Quotes
-
-## Conclusion
