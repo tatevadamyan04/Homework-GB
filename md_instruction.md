@@ -2,9 +2,13 @@
 
 ## Text Selection
 
-To make text italic, you need to frame it with an asterisk (*). *like this*
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-To make text bold, you need to frame it with two asterisks (**). **like this**
+Strong emphasis, aka bold, with **asterisks** or __underscores__.(2 underscores)
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
 
 ## Lists
 
