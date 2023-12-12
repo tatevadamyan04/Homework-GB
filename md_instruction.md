@@ -32,3 +32,14 @@ URLs and URLs in angle brackets will automatically get turned into links.
 
 For adding an image to your project you need to do this:
  ![This is my current wallpaper!](wallpaper.jpg)
+
+ ## Tables
+
+ Colons can be used to align columns.
+
+| 1st col       | 2nd col       | 3rd col|
+| ------------- |:-------------:| -----: |
+| 1st row       | *italic*      | 1      |
+| 2nd row       | **bold**      | 2      |
+| 3rd row       | ~~Striked~~   | 3      |
+
